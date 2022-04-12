@@ -1,4 +1,4 @@
-### Olá!! Sou dev júnior e estou em processo de aprendizado, vem me acompanhar!
+<h1 style="text-align: center;" > Olá!! Sou dev júnior e estou em processo de aprendizagem, vem me acompanhar! <h2>
 
 <div align="center">
   <a href="https://github.com/GustavoCarvalho25">
