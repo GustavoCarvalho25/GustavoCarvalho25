@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!! Sou dev júnior e estou em processo de aprendizado, vem me acompanhar!
 
 <div align="center">
   <a href="https://github.com/GustavoCarvalho25">
