@@ -1,4 +1,4 @@
-<h1 style="text-align: center;" > Olá!! Sou dev júnior e estou em processo de aprendizagem, vem me acompanhar! <h2>
+<h2 style="text-align: center;"> Olá!! Sou dev júnior e estou em processo de aprendizagem, vem me acompanhar! <h2>
 
 <div align="center">
   <a href="https://github.com/GustavoCarvalho25">
@@ -27,4 +27,7 @@
  
   ![Snake animation](https://github.com/GustavoCarvalho25/GustavoCarvalho25/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+<div align="right">
+  <h6> Créditos: Raffa Ballerini </h6>  
 </div>
