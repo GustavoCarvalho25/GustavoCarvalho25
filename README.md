@@ -13,7 +13,7 @@
   <img align="center" alt="Gus-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gus-sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/1515140_3b8nYBRc.png">
+  <img align="right" alt="Gus-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/1515140_3b8nYBRc.png">
 </div>
   
   ##
