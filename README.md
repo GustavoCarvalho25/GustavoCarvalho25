@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> Olá!! Sou dev júnior e estou em processo de aprendizagem, vem me acompanhar! <h2>
+<h2 style="text-align: center;"> Olá!! Sou desenvolvedor júnior, e você pode encontrar alguns dos meus projetos de estudos por aqui!! Fique a vontade para entrar em contato também! <h2>
 
 <div align="center">
   <a href="https://github.com/GustavoCarvalho25">
@@ -21,7 +21,6 @@
 <div>
   <a href="https://www.linkedin.com/in/gustavo-carvalho-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:gustavo.carvalhoalves.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gus_carvalho25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
 <div align="right">
