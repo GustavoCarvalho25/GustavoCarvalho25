@@ -9,7 +9,7 @@
   <li>💻 Proficient in C#, .NET, ASP.NET, SQL Server</li>
   <li>🚀 Experience with Docker, RabbitMQ, Redis, MongoDB, React.js, Vue.js, javascript, typescript</li>
   <li>🎓 Currently pursuing a Bachelor's degree in Information Systems at UNESP (top 3 in the class)</li>
-  <li>🛠️ Completed Technical Development Systems course at ETESP</li>
+  <li>🛠️ Completed Technical Systems Development course at ETESP</li>
   <li>🌍 Open to new opportunities and collaborations</li>
 </ul>
 
